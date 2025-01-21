@@ -1,4 +1,4 @@
-export const questions = [
+export const Questions = [
     {
       id: 3457,
       question: "What language is React based on?",
